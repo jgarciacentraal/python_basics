@@ -8,11 +8,21 @@
 # print(value)
 
 
-condition = False
+# condition = False
 
-if condition == True:
-    print("The condition")
-    print("was True")
+# if condition == True:
+#     print("The condition")
+#     print("was True")
+# else:
+#     print("The condition")
+#     print("was False")
+
+name = "Julio"
+if name == 1:
+    print("something")
+elif name == "Ana":
+    print("Ella")
 else:
-    print("The condition")
-    print("was False")
+    print("yo") 
+
+
