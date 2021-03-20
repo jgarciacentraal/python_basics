@@ -24,3 +24,6 @@ for index in range(len(values)):
 # enumarate()
 for count, value in enumerate(values):
     print(count, value)       
+
+
+#When used in conditions, 0, 0.0, and '' (the empty string) are considered False
